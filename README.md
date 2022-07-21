@@ -10,6 +10,7 @@ Dark mode in this app has been given a special and exciting user experience with
 
 ** This app utilizes CoinGecko’s free API to retrieve the data used in this app. Some updates to the data, including current prices, may be delayed or unavailable.
 
+## Screenshots
 ![image-5](https://user-images.githubusercontent.com/86983846/180279208-d516ec0a-9ff6-4ac2-b6e3-55e4fafd517c.png)
 
 ## Techniques Demonstrated
