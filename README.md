@@ -1,4 +1,4 @@
-<img width="97" alt="Screen Shot 2022-07-21 at 12 43 40 PM" src="https://user-images.githubusercontent.com/86983846/180279035-e49ea1f4-3f57-4f3a-ae63-3bcea09e69e4.png">
+![ccicon](https://user-images.githubusercontent.com/86983846/187572252-32c569d1-d033-450e-a0d8-81c5dcd8c3a3.png)
 
 # CryptoTrak
 
